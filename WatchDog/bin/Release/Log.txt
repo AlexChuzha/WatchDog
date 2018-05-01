@@ -1,0 +1,4 @@
+### 01.05.2018 14:33:24: Система запущена, процесс для автозапуска определен.
+### 01.05.2018 14:33:40: [ Запуск процесса C:\Users\Admin\Documents\GitHub\WatchDog\TCPPortListener\bin\Debug\TCPPortListener.exe] [Пользователь сам запустил процесс]
+### 01.05.2018 14:35:05: Система запущена, процесс для автозапуска определен.
+### 01.05.2018 14:35:09: [ Запуск процесса C:\Users\Admin\Documents\GitHub\WatchDog\TCPPortListener\bin\Debug\TCPPortListener.exe] [Пользователь сам запустил процесс]

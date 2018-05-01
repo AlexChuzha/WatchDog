@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WatchDog", "WatchDog\WatchDog.vbproj", "{F5EA34CA-581B-4EC3-8A06-6F59DCFD6892}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TCPPortListener", "TCPPortListener\TCPPortListener.vbproj", "{DB987607-8BB2-44EA-9472-2616490BC671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5EA34CA-581B-4EC3-8A06-6F59DCFD6892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5EA34CA-581B-4EC3-8A06-6F59DCFD6892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5EA34CA-581B-4EC3-8A06-6F59DCFD6892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5EA34CA-581B-4EC3-8A06-6F59DCFD6892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB987607-8BB2-44EA-9472-2616490BC671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB987607-8BB2-44EA-9472-2616490BC671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB987607-8BB2-44EA-9472-2616490BC671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB987607-8BB2-44EA-9472-2616490BC671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
